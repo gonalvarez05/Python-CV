@@ -1,2 +1,4 @@
-# Python-Resume
-Create my Resume with python
+# Python CV
+Create my curriculum with python.
+
+
